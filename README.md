@@ -49,13 +49,20 @@ Contributions are welcome! If you would like to contribute to this project, plea
 | hassan     | ABOUDRAR  | 21  |
 | Rachid     | BOUGHBANE | 21  | 
 
+## Block Quote
 
+> This is a blockquote.
 
+## Code Blocks
 
-
-
-
-
-
-
-
+```javascript
+  const message = 'Hello, World!';
+  console.log(message);
+  // Define a function that calculates the sum of two numbers
+  function calculateSum(a, b) {
+  return a + b;
+  }
+  // Call the function with two numbers and store the result in a variable
+  const result = calculateSum(5, 10);
+  // Display the result in the console
+  console.log("The sum is: " + result);
