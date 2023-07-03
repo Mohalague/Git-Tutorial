@@ -1,5 +1,5 @@
 # Git-Tutorial
-This is the ___README file___ for the project "Git-Tutorials". This file provides an overview of the project, its purpose, features, installation instructions, and other relevant information.
+This is the <sup>___README file___</sup> for the project "Git-Tutorials". This file provides an overview of the project, its purpose, features, installation instructions, and other relevant information.
 
 ## Table of Contents
 
@@ -39,7 +39,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 ## License
 
-![License Mit](C:\liquity-clone\main-pictures\main-1.png)
+![License Mit](https://avatars.githubusercontent.com/u/20128845?v=4)
 
 ## Tables
 
@@ -66,3 +66,64 @@ Contributions are welcome! If you would like to contribute to this project, plea
   const result = calculateSum(5, 10);
   // Display the result in the console
   console.log("The sum is: " + result);
+```
+
+## Quoting Code
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+
+## Supported color models
+
+The background color is ` #ffffff ` for light mode and ` #000000 ` for dark mode.
+
+## Links
+
+This site called [__Github__](https://github.com/)
+
+## Relative Links
+
+[__Contribution guidelines for this project__](../CONTRIBUTING.md)
+
+## Nested Lists
+
+100. First Item
+     - Sub-First Item
+       - nested First-Item
+         - Second-nested first-Item 
+       
+## Task Lists
+
+- [x] Convert Psd File to Html code.🛰️
+- [ ] Complete css code. 🥇
+- [ ] Find Three js Library 🎉
+
+## Using Emoji
+
+___this is Great___ :+1:
+
+___this is the shipit___ :shipit:
+
+## Footnotes
+
+ This is the first reference [^1].
+
+ This is the second reference[^2].
+
+ 
+[^1]: My reference.
+[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
+  This is a second line.
+
+## Hidden content with comments
+
+<!--This content will not appear in the rendered Markdown-->
+
+## Ignoring Mark down formatting
+
+`Let's rename \*our-new-project\* to *our-old-project*.`
+
